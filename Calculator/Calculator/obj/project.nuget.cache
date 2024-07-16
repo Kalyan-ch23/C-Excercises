@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9XHI0Sl41T5Yed4lkzBS7Bn5OaRO0mH/CnQajUWBHFXuPFKHfOjhYn9XYCad1AFrvT4qg9T/SSIlkNe5DN6cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chinthka\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-dev'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

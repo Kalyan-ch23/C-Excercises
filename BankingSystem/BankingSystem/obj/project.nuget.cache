@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "eq+gpVxtRaSKj+vNbuYd9E26EYMJ1KbPXZVhmVYVbrUrz7rGYwbB9lYrU8l7Jk0KiGxt5DoU5fvgmHXz9UzMTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chinthka\\source\\repos\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-dev'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
