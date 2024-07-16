@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "R6C3EARjqOjJviHGrys/Q8j0eF18+GG8C/3IFIwOHUPVACjMQGnjxqfMHcovYh2g7AoIAjskiR4t6m1tgY0xXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chinthka\\source\\repos\\NumberGuessing\\NumberGuessing\\NumberGuessing.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01.devop.vertafore.com/artifactory/api/nuget/nuget-dev'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://botd-repo01/artifactory/api/nuget/nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
