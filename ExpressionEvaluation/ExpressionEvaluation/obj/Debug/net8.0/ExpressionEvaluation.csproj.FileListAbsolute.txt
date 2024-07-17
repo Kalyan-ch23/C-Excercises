@@ -1,0 +1,17 @@
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\ExpressionEvaluation.exe
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\ExpressionEvaluation.deps.json
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\ExpressionEvaluation.runtimeconfig.json
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\ExpressionEvaluation.dll
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\ExpressionEvaluation.pdb
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\bin\Debug\net8.0\NCalc.dll
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.csproj.AssemblyReference.cache
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.AssemblyInfoInputs.cache
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.AssemblyInfo.cs
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\Expressi.5CDE9EA1.Up2Date
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.dll
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\refint\ExpressionEvaluation.dll
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.pdb
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ExpressionEvaluation.genruntimeconfig.cache
+C:\Users\chinthka\source\repos\ExpressionEvaluation\ExpressionEvaluation\obj\Debug\net8.0\ref\ExpressionEvaluation.dll
